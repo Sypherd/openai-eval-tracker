@@ -16,7 +16,7 @@ Format: \<date-merged\> \<short-title\>: \<link-to-PR\>
 * 3/21 Cipher Decryption: https://github.com/openai/evals/pull/58
 * 3/21 CS Theory: https://github.com/openai/evals/pull/83
 * 3/21 Determinant Calculation: https://github.com/openai/evals/pull/92
-* 3/21 Model Rules: https://github.com/openai/evals/pull/95
+* 3/21 Legal Ethics: https://github.com/openai/evals/pull/95
 * 3/21 Anagrams: https://github.com/openai/evals/pull/192
 * 3/20 Latitude and Longitude: https://github.com/openai/evals/pull/137
 * 3/20 Halting Problem: https://github.com/openai/evals/pull/86
