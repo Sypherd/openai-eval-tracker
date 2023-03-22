@@ -8,6 +8,7 @@ To help people that are looking for inspiration for good Evals, I decided to cre
 Format: \<date-merged\> \<short-title\>: \<link-to-PR\>
 
 * 3/21 Belarusian Lexicon: https://github.com/openai/evals/pull/372
+* 3/21 Diagrammatical Reasoning: https://github.com/openai/evals/pull/341
 * 3/21 Replace Characters: https://github.com/openai/evals/pull/324
 * 3/21 Casual Reasoning: https://github.com/openai/evals/pull/257
 * 3/21 Playing Chess: https://github.com/openai/evals/pull/45
