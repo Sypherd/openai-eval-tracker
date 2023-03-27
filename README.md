@@ -7,6 +7,17 @@ To help people that are looking for inspiration for good Evals, I decided to cre
 ## Accepted Evals
 Format: \<date-merged\> \<short-title\>: \<link-to-PR\>
 
+* 3/26 Stock Options: https://github.com/openai/evals/pull/334
+* 3/26 Logic Statements: https://github.com/openai/evals/pull/366
+* 3/26 ROT13 Strings: https://github.com/openai/evals/pull/361
+* 3/26 Sarcasm Detection: https://github.com/openai/evals/pull/56
+* 3/26 Tort Law: https://github.com/openai/evals/pull/236
+* 3/22 Multiple Actors: https://github.com/openai/evals/pull/272
+* 3/22 Rhyming (Hebrew): https://github.com/openai/evals/pull/176
+* 3/22 Poker Hands: https://github.com/openai/evals/pull/299
+* 3/22 Forth Stack: https://github.com/openai/evals/pull/351
+* 3/22 Formal Logic: https://github.com/openai/evals/pull/53
+* 3/22 First Letters: https://github.com/openai/evals/pull/346
 * 3/21 Belarusian Lexicon: https://github.com/openai/evals/pull/372
 * 3/21 Diagrammatical Reasoning: https://github.com/openai/evals/pull/341
 * 3/21 Replace Characters: https://github.com/openai/evals/pull/324
