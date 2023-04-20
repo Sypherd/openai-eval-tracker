@@ -7,6 +7,31 @@ To help people that are looking for inspiration for good Evals, I decided to cre
 ## Accepted Evals
 Format: \<date-merged\> \<short-title\>: \<link-to-PR\>
 
+* 4/14 Mongolian World Knowledge: https://github.com/openai/evals/pull/338
+* 4/13 Financial Math: https://github.com/openai/evals/pull/566
+* 4/13 Escher Sentences: https://github.com/openai/evals/pull/393
+* 4/12 Moral Exception: https://github.com/openai/evals/pull/534
+* 4/11 Logical Reasoning: https://github.com/openai/evals/pull/470
+* 4/11 Swedish Spelling: https://github.com/openai/evals/pull/583
+* 4/11 Heart Disease: https://github.com/openai/evals/pull/538
+* 4/11 Emotional Intelligence: https://github.com/openai/evals/pull/589
+* 4/11 Brazilian Lexicon: https://github.com/openai/evals/pull/608
+* 4/10 Malicious Strings: https://github.com/openai/evals/pull/627
+* 4/4 Russion Hallucination: https://github.com/openai/evals/pull/157
+* 3/29 Bulgarian Lexicon: https://github.com/openai/evals/pull/508
+* 3/28 Forth Stack 2.0: https://github.com/openai/evals/pull/449
+* 3/28 Illinois Law: https://github.com/openai/evals/pull/486
+* 3/28 Chinese to Arabic Numbers: https://github.com/openai/evals/pull/443
+* 3/28 Manga Translation: https://github.com/openai/evals/pull/319
+* 3/27 Tax Liability: https://github.com/openai/evals/pull/454
+* 3/27 Mendelian Inheritance: https://github.com/openai/evals/pull/444
+* 3/27 Text Date: https://github.com/openai/evals/pull/67
+* 3/27 Russian Exam: https://github.com/openai/evals/pull/127
+* 3/27 Complex Numbers: https://github.com/openai/evals/pull/223
+* 3/27 Crossword Clues: https://github.com/openai/evals/pull/358
+* 3/27 Ukrainian Universities: https://github.com/openai/evals/pull/329
+* 3/27 Heavier Item: https://github.com/openai/evals/pull/396
+* 3/27 Regex Match: https://github.com/openai/evals/pull/159
 * 3/26 Stock Options: https://github.com/openai/evals/pull/334
 * 3/26 Logic Statements: https://github.com/openai/evals/pull/366
 * 3/26 ROT13 Strings: https://github.com/openai/evals/pull/361
