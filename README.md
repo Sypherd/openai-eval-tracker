@@ -7,6 +7,17 @@ To help people that are looking for inspiration for good Evals and to make sure 
 ## Accepted Evals
 Format: \<date-merged\> \<short-title\>: \<link-to-PR\>
 
+* 4/21 Utility Charge: https://github.com/openai/evals/pull/735
+* 4/21 Unified Patch: https://github.com/openai/evals/pull/537
+* 4/21 Emoji Riddle: https://github.com/openai/evals/pull/510
+* 4/21 Japanese License: https://github.com/openai/evals/pull/719
+* 4/21 Spider Text-to-SQL: https://github.com/openai/evals/pull/72
+* 4/21 Loss Logic: https://github.com/openai/evals/pull/82
+* 4/21 Amateur Radio: https://github.com/openai/evals/pull/516
+* 4/21 General Science: https://github.com/openai/evals/pull/641
+* 4/21 Physical Rotation: https://github.com/openai/evals/pull/691
+* 4/20 Music Theory: https://github.com/openai/evals/pull/725
+* 4/20 Russian Medical: https://github.com/openai/evals/pull/530
 * 4/14 Mongolian World Knowledge: https://github.com/openai/evals/pull/338
 * 4/13 Financial Math: https://github.com/openai/evals/pull/566
 * 4/13 Escher Sentences: https://github.com/openai/evals/pull/393
