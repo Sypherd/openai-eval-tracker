@@ -2,11 +2,28 @@
 
 With the significant improvements that come with GPT-4, there is massive demand for access to the API. There is a waitlist [here](https://openai.com/waitlist/gpt-4-api), but there's no guarantee of when access will be granted. OpenAI has provided a way to get earlier access, however, through contributions to its recently open-sourced Evals repo (see [this note](https://openai.com/waitlist/gpt-4-api#:~:text=During%20the%20gradual,Access%20Program.) and [this article](https://techcrunch.com/2023/03/14/with-evals-openai-hopes-to-crowdsource-ai-model-testing/)). The standards are vague, noting that access will be granted to "exceptional model evaluations." A little more information can be found [in the PR template](https://github.com/openai/evals/blob/main/.github/PULL_REQUEST_TEMPLATE.md). Looking at the active PRs and which ones have been accepted, there seems to be little feedback on the quality of a submission, and the ones that are accepted appear to be the ones that the models perform poorly on and the moderators deem "interesting" or "clever" (see [this comment](https://github.com/openai/evals/pull/302#pullrequestreview-1349533532), [this comment](https://github.com/openai/evals/pull/112#pullrequestreview-1344881565), or [this comment](https://github.com/openai/evals/pull/239#pullrequestreview-1344890191)). Some PRs sit for days while others are approved almost immediately.
 
-To help people that are looking for inspiration for good Evals and to make sure they don't work on one that has already been merged, I decided to create this repo that tracks all of the Evals that have been accepted by OpenAI. I will update twice a day, at around 14:00 GMT and 02:00 GMT.
+To help people that are looking for inspiration for good Evals and to make sure they don't work on one that has already been merged, I decided to create this repo that tracks all of the Evals that have been accepted by OpenAI.
 
 ## Accepted Evals
 Format: \<date-merged\> \<short-title\>: \<link-to-PR\>
 
+* 4/24 SVG Understanding : https://github.com/openai/evals/pull/786
+* 4/22 Countries by Area: https://github.com/openai/evals/pull/623
+* 4/22 Contextual Bias: https://github.com/openai/evals/pull/551
+* 4/22 Knot Theory: https://github.com/openai/evals/pull/704
+* 4/22 Russian Words in Context: https://github.com/openai/evals/pull/147
+* 4/22 Dutch Lexicon: https://github.com/openai/evals/pull/616
+* 4/21 Greek Vocabulary: https://github.com/openai/evals/pull/582
+* 4/21 Russian Rhyming: https://github.com/openai/evals/pull/708
+* 4/21 Multistep Equations: https://github.com/openai/evals/pull/751
+* 4/21 Algebra Word Problems: https://github.com/openai/evals/pull/36
+* 4/21 Positive Binary Operations: https://github.com/openai/evals/pull/290
+* 4/21 Emails & Invoices: https://github.com/openai/evals/pull/102
+* 4/21 pH Calculations: https://github.com/openai/evals/pull/696
+* 4/21 Banking77 Classification: https://github.com/openai/evals/pull/171
+* 4/21 Human Conversation QA: https://github.com/openai/evals/pull/87
+* 4/21 Medical (MedMCQA): https://github.com/openai/evals/pull/141
+* 4/21 Japanese Caregiver: https://github.com/openai/evals/pull/729
 * 4/21 Utility Charge: https://github.com/openai/evals/pull/735
 * 4/21 Unified Patch: https://github.com/openai/evals/pull/537
 * 4/21 Emoji Riddle: https://github.com/openai/evals/pull/510
