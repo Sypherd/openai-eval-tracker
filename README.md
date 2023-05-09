@@ -7,6 +7,8 @@ To help people that are looking for inspiration for good Evals and to make sure 
 ## Accepted Evals
 Format: \<date-merged\> \<short-title\>: \<link-to-PR\>
 
+* 5/8 Auditing & Assurances: https://github.com/openai/evals/pull/926
+* 5/8 Liar Paradox: https://github.com/openai/evals/pull/883
 * 4/26 Japanese Medical: https://github.com/openai/evals/pull/821
 * 4/26 Gene Mapping: https://github.com/openai/evals/pull/755
 * 4/24 SVG Understanding : https://github.com/openai/evals/pull/786
