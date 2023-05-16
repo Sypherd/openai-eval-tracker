@@ -7,6 +7,8 @@ To help people that are looking for inspiration for good Evals and to make sure 
 ## Accepted Evals
 Format: \<date-merged\> \<short-title\>: \<link-to-PR\>
 
+* 5/15 Windows Events: https://github.com/openai/evals/pull/169
+* 5/15 ASCII Art: https://github.com/openai/evals/pull/167
 * 5/8 Auditing & Assurances: https://github.com/openai/evals/pull/926
 * 5/8 Liar Paradox: https://github.com/openai/evals/pull/883
 * 4/26 Japanese Medical: https://github.com/openai/evals/pull/821
