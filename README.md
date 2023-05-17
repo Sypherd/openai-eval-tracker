@@ -7,6 +7,10 @@ To help people that are looking for inspiration for good Evals and to make sure 
 ## Accepted Evals
 Format: \<date-merged\> \<short-title\>: \<link-to-PR\>
 
+* 5/17 Historical Ordering: https://github.com/openai/evals/pull/180
+* 5/17 Date Extraction: https://github.com/openai/evals/pull/172
+* 5/17 Geometric Manipulation: https://github.com/openai/evals/pull/184
+* 5/16 Chinese Sexagenary Cycle: https://github.com/openai/evals/pull/190
 * 5/15 Windows Events: https://github.com/openai/evals/pull/169
 * 5/15 ASCII Art: https://github.com/openai/evals/pull/167
 * 5/8 Auditing & Assurances: https://github.com/openai/evals/pull/926
