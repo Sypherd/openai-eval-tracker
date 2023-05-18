@@ -7,6 +7,11 @@ To help people that are looking for inspiration for good Evals and to make sure 
 ## Accepted Evals
 Format: \<date-merged\> \<short-title\>: \<link-to-PR\>
 
+* 5/17 Probability Questions: https://github.com/openai/evals/pull/263
+* 5/17 Integer Sequence: https://github.com/openai/evals/pull/903
+* 5/17 Afrikaans Words: https://github.com/openai/evals/pull/904
+* 5/17 Irish Lexicon: https://github.com/openai/evals/pull/909
+* 5/17 Leap Years: https://github.com/openai/evals/pull/899
 * 5/17 Historical Ordering: https://github.com/openai/evals/pull/180
 * 5/17 Date Extraction: https://github.com/openai/evals/pull/172
 * 5/17 Geometric Manipulation: https://github.com/openai/evals/pull/184
