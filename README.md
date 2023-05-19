@@ -7,6 +7,10 @@ To help people that are looking for inspiration for good Evals and to make sure 
 ## Accepted Evals
 Format: \<date-merged\> \<short-title\>: \<link-to-PR\>
 
+* 5/18 Largest Country (Duplicate): https://github.com/openai/evals/pull/295
+* 5/18 AIME Math Problems: https://github.com/openai/evals/pull/293
+* 5/18 Nepali Singers: https://github.com/openai/evals/pull/892
+* 5/18 Syntax Inference: https://github.com/openai/evals/pull/339
 * 5/17 Probability Questions: https://github.com/openai/evals/pull/263
 * 5/17 Integer Sequence: https://github.com/openai/evals/pull/903
 * 5/17 Afrikaans Words: https://github.com/openai/evals/pull/904
