@@ -7,6 +7,18 @@ To help people that are looking for inspiration for good Evals and to make sure 
 ## Accepted Evals
 Format: \<date-merged\> \<short-title\>: \<link-to-PR\>
 
+* 5/22 Tamil Translation: https://github.com/openai/evals/pull/344
+* 5/22 Isosceles Triangles: https://github.com/openai/evals/pull/370
+* 5/22 Time Zone Conversion: https://github.com/openai/evals/pull/382
+* 5/22 Geometric Reasoning: https://github.com/openai/evals/pull/436
+* 5/22 Floor Plan: https://github.com/openai/evals/pull/439
+* 5/22 Duck Counting: https://github.com/openai/evals/pull/997
+* 5/22 Vintage Phone Keyboard: https://github.com/openai/evals/pull/385
+* 5/21 Tetris Rotations: https://github.com/openai/evals/pull/887
+* 5/21 Physics Interactions: https://github.com/openai/evals/pull/894
+* 5/19 Human Body Movement: https://github.com/openai/evals/pull/360
+* 5/19 Rubik's Colors: https://github.com/openai/evals/pull/380
+* 5/19 South African Vocalists: https://github.com/openai/evals/pull/902
 * 5/18 Largest Country (Duplicate): https://github.com/openai/evals/pull/295
 * 5/18 AIME Math Problems: https://github.com/openai/evals/pull/293
 * 5/18 Nepali Singers: https://github.com/openai/evals/pull/892
