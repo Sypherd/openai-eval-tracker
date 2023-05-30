@@ -7,6 +7,13 @@ To help people that are looking for inspiration for good Evals and to make sure 
 ## Accepted Evals
 Format: \<date-merged\> \<short-title\>: \<link-to-PR\>
 
+* 5/22 Unique Combinations https://github.com/openai/evals/pull/421 (That's me!)
+* 5/22 Invert String: https://github.com/openai/evals/pull/285
+* 5/22 Spell Check: https://github.com/openai/evals/pull/523
+* 5/22 JEE Exam: https://github.com/openai/evals/pull/123
+* 5/22 Linear Equations: https://github.com/openai/evals/pull/325
+* 5/22 Resistance (Ohm) Calculator: https://github.com/openai/evals/pull/397
+* 5/22 Counterfactual Reasoning: https://github.com/openai/evals/pull/174
 * 5/22 Tamil Translation: https://github.com/openai/evals/pull/344
 * 5/22 Isosceles Triangles: https://github.com/openai/evals/pull/370
 * 5/22 Time Zone Conversion: https://github.com/openai/evals/pull/382
